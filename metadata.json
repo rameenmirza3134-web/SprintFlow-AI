@@ -1,0 +1,6 @@
+{
+  "name": "SprintFlow AI",
+  "description": "AI-powered visual project management canvas for agile planning, backlogs, sprints, and team execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

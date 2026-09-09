@@ -1,0 +1,12 @@
+# SprintFlow AI - Python Agent Backend Requirements
+# The core agent is intentionally built with zero heavy external dependencies using
+# Python standard libraries (urllib.request, json, platform, sys, os, pathlib)
+# ensuring fast startup (<50ms) and container resilience.
+
+python>=3.10.0
+
+# Optional extended packages if pip is available in environment:
+# google-genai>=0.1.0
+# pydantic>=2.0.0
+# fastapi>=0.110.0
+# uvicorn>=0.28.0
